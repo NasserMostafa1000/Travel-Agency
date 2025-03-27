@@ -1,0 +1,72 @@
+E:\WORK\SalamTravel\SalamaTravelDTA\bin\Debug\net8.0\SalamaTravelDAL.deps.json
+E:\WORK\SalamTravel\SalamaTravelDTA\bin\Debug\net8.0\SalamaTravelDAL.dll
+E:\WORK\SalamTravel\SalamaTravelDTA\bin\Debug\net8.0\SalamaTravelDAL.pdb
+E:\WORK\SalamTravel\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.csproj.AssemblyReference.cache
+E:\WORK\SalamTravel\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\WORK\SalamTravel\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.AssemblyInfoInputs.cache
+E:\WORK\SalamTravel\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.AssemblyInfo.cs
+E:\WORK\SalamTravel\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.csproj.CoreCompileInputs.cache
+E:\WORK\SalamTravel\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.dll
+E:\WORK\SalamTravel\SalamaTravelDTA\obj\Debug\net8.0\refint\SalamaTravelDAL.dll
+E:\WORK\SalamTravel\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.pdb
+E:\WORK\SalamTravel\SalamaTravelDTA\obj\Debug\net8.0\ref\SalamaTravelDAL.dll
+E:\WORK\Salama APIs\SalamaTravelDTA\bin\Debug\net8.0\SalamaTravelDAL.deps.json
+E:\WORK\Salama APIs\SalamaTravelDTA\bin\Debug\net8.0\SalamaTravelDAL.dll
+E:\WORK\Salama APIs\SalamaTravelDTA\bin\Debug\net8.0\SalamaTravelDAL.pdb
+E:\WORK\Salama APIs\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.csproj.AssemblyReference.cache
+E:\WORK\Salama APIs\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\WORK\Salama APIs\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.AssemblyInfoInputs.cache
+E:\WORK\Salama APIs\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.AssemblyInfo.cs
+E:\WORK\Salama APIs\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.csproj.CoreCompileInputs.cache
+E:\WORK\Salama APIs\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.dll
+E:\WORK\Salama APIs\SalamaTravelDTA\obj\Debug\net8.0\refint\SalamaTravelDAL.dll
+E:\WORK\Salama APIs\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.pdb
+E:\WORK\Salama APIs\SalamaTravelDTA\obj\Debug\net8.0\ref\SalamaTravelDAL.dll
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelDTA\bin\Debug\net8.0\SalamaTravelDAL.deps.json
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelDTA\bin\Debug\net8.0\SalamaTravelDAL.dll
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelDTA\bin\Debug\net8.0\SalamaTravelDAL.pdb
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.csproj.AssemblyReference.cache
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.AssemblyInfoInputs.cache
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.AssemblyInfo.cs
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.csproj.CoreCompileInputs.cache
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.dll
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelDTA\obj\Debug\net8.0\refint\SalamaTravelDAL.dll
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.pdb
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelDTA\obj\Debug\net8.0\ref\SalamaTravelDAL.dll
+E:\WORK\Salam Travel Folder\Salama apis\SalamaTravelDTA\bin\Debug\net8.0\SalamaTravelDAL.deps.json
+E:\WORK\Salam Travel Folder\Salama apis\SalamaTravelDTA\bin\Debug\net8.0\SalamaTravelDAL.dll
+E:\WORK\Salam Travel Folder\Salama apis\SalamaTravelDTA\bin\Debug\net8.0\SalamaTravelDAL.pdb
+E:\WORK\Salam Travel Folder\Salama apis\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.csproj.AssemblyReference.cache
+E:\WORK\Salam Travel Folder\Salama apis\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\WORK\Salam Travel Folder\Salama apis\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.AssemblyInfoInputs.cache
+E:\WORK\Salam Travel Folder\Salama apis\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.AssemblyInfo.cs
+E:\WORK\Salam Travel Folder\Salama apis\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.csproj.CoreCompileInputs.cache
+E:\WORK\Salam Travel Folder\Salama apis\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.dll
+E:\WORK\Salam Travel Folder\Salama apis\SalamaTravelDTA\obj\Debug\net8.0\refint\SalamaTravelDAL.dll
+E:\WORK\Salam Travel Folder\Salama apis\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.pdb
+E:\WORK\Salam Travel Folder\Salama apis\SalamaTravelDTA\obj\Debug\net8.0\ref\SalamaTravelDAL.dll
+E:\WORK\Salam Travel Folder\apis\SalamaTravelDTA\bin\Debug\net8.0\SalamaTravelDAL.deps.json
+E:\WORK\Salam Travel Folder\apis\SalamaTravelDTA\bin\Debug\net8.0\SalamaTravelDAL.dll
+E:\WORK\Salam Travel Folder\apis\SalamaTravelDTA\bin\Debug\net8.0\SalamaTravelDAL.pdb
+E:\WORK\Salam Travel Folder\apis\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.csproj.AssemblyReference.cache
+E:\WORK\Salam Travel Folder\apis\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\WORK\Salam Travel Folder\apis\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.AssemblyInfoInputs.cache
+E:\WORK\Salam Travel Folder\apis\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.AssemblyInfo.cs
+E:\WORK\Salam Travel Folder\apis\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.csproj.CoreCompileInputs.cache
+E:\WORK\Salam Travel Folder\apis\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.dll
+E:\WORK\Salam Travel Folder\apis\SalamaTravelDTA\obj\Debug\net8.0\refint\SalamaTravelDAL.dll
+E:\WORK\Salam Travel Folder\apis\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.pdb
+E:\WORK\Salam Travel Folder\apis\SalamaTravelDTA\obj\Debug\net8.0\ref\SalamaTravelDAL.dll
+C:\Users\Elalamia\Desktop\apis\SalamaTravelDTA\bin\Debug\net8.0\SalamaTravelDAL.deps.json
+C:\Users\Elalamia\Desktop\apis\SalamaTravelDTA\bin\Debug\net8.0\SalamaTravelDAL.dll
+C:\Users\Elalamia\Desktop\apis\SalamaTravelDTA\bin\Debug\net8.0\SalamaTravelDAL.pdb
+C:\Users\Elalamia\Desktop\apis\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.csproj.AssemblyReference.cache
+C:\Users\Elalamia\Desktop\apis\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elalamia\Desktop\apis\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.AssemblyInfoInputs.cache
+C:\Users\Elalamia\Desktop\apis\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.AssemblyInfo.cs
+C:\Users\Elalamia\Desktop\apis\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.csproj.CoreCompileInputs.cache
+C:\Users\Elalamia\Desktop\apis\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.dll
+C:\Users\Elalamia\Desktop\apis\SalamaTravelDTA\obj\Debug\net8.0\refint\SalamaTravelDAL.dll
+C:\Users\Elalamia\Desktop\apis\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDAL.pdb
+C:\Users\Elalamia\Desktop\apis\SalamaTravelDTA\obj\Debug\net8.0\ref\SalamaTravelDAL.dll

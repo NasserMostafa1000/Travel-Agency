@@ -1,0 +1,175 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  padding-bottom: 60px;
+  padding-top: 30px;
+  overflow-x: hidden;
+}
+
+.visa-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgba(205, 109, 18, 0.1);
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  width: 100%;
+  max-width: 310px;
+  padding: 20px;
+  margin: 10px;
+  box-sizing: border-box;
+  flex-grow: 1;
+  margin-top: 50px;
+  transition: transform 0.2s;
+  border: 2px solid #f39c12;
+}
+
+.visa-container:hover {
+  transform: scale(1.05);
+}
+
+.visa-image img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.visa-details {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.visa-name {
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: #e3eaeb;
+}
+
+.visa-info {
+  margin-top: 10px;
+  text-align: left;
+}
+
+.visa-price,
+.visa-duration {
+  margin: 10px 0;
+}
+
+.label {
+  font-size: 1rem;
+  font-weight: normal;
+  color: #e3eaeb;
+}
+
+.amount,
+.duration {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #333;
+}
+
+.visa-extra-info {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.extra-info-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #e3eaeb;
+}
+
+.extra-info-description {
+  font-size: 1.5rem;
+  color: #0000008d;
+  margin-top: 8px;
+}
+
+.visa-buttons {
+  margin-top: 20px;
+}
+
+.visa-button {
+  padding: 10px 20px;
+  margin: 5px;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.issue-button {
+  background-color: #4caf50;
+  color: white;
+}
+
+.issue-button:hover {
+  background-color: #45a049;
+}
+
+.renew-button {
+  background-color: #f39c12;
+  color: white;
+}
+
+.renew-button:hover {
+  background-color: #e67e22;
+}
+
+.visa-container {
+  border: 2px solid #ffeb3d;
+  padding: 20px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+  transition: transform 0.2s ease;
+}
+
+/* تحسين التفاعل مع الشاشات الصغيرة */
+@media (max-width: 768px) {
+  .visa-container {
+    max-width: 90%;
+    margin: 15px auto;
+  }
+
+  .visa-name {
+    font-size: 1.4rem;
+  }
+
+  .visa-price,
+  .visa-duration,
+  .label,
+  .amount,
+  .duration {
+    font-size: 1rem;
+  }
+
+  .visa-buttons {
+    margin-top: 15px;
+  }
+
+  .visa-button {
+    font-size: 0.9rem;
+    padding: 8px 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .visa-container {
+    max-width: 95%;
+    padding: 15px;
+  }
+
+  .visa-name {
+    font-size: 1.2rem;
+  }
+
+  .visa-buttons {
+    margin-top: 10px;
+  }
+
+  .visa-button {
+    font-size: 0.9rem;
+    padding: 6px 12px;
+  }
+}

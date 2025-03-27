@@ -1,0 +1,214 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Arial", sans-serif;
+  background: #8b4513; /* بني */
+  color: #fff8dc; /* لون نص فاتح */
+}
+
+.SignUp {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+form {
+  background-color: orange; /* لون فاتح يتباين مع الخلفية */
+  border-radius: 25px; /* زيادة قيمة الانحناء لجعل الحواف أكثر انحناءً */
+  padding: 30px;
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.3);
+  width: 100%;
+  max-width: 450px;
+  text-align: center;
+  box-sizing: border-box;
+  transition: all 0.3s ease-in-out; /* إضافة انتقال ناعم للحواف */
+}
+
+@media screen and (max-width: 768px) {
+  form {
+    padding: 20px;
+    width: 90%; /* عرض النموذج يصبح 90% من الشاشة */
+    max-width: 380px; /* تقليص العرض الأقصى قليلاً */
+    border-radius: 20px; /* تقليل الانحناء في الشاشات الصغيرة */
+  }
+}
+
+@media screen and (max-width: 480px) {
+  form {
+    padding: 15px;
+    width: 100%; /* عرض النموذج يصبح كامل عرض الشاشة */
+    max-width: 360px; /* تقليص العرض الأقصى */
+    border-radius: 15px; /* تقليل الانحناء أكثر في الهواتف الصغيرة */
+  }
+}
+
+form h1 {
+  margin-bottom: 20px;
+  color: #085914; /* لون النص (بني داكن) */
+  font-size: 50px; /* تكبير الحجم */
+  font-family: "Dancing Script", sans-serif; /* خط مخصص من Google Fonts */
+  font-weight: bold; /* جعل الوزن أكثر كثافة */
+  text-transform: uppercase; /* تحويل النص إلى حروف كبيرة */
+  letter-spacing: 2px; /* زيادة المسافة بين الحروف */
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.2); /* إضافة تأثير الظل لجعل النص يظهر بشكل مميز */
+  background-image: linear-gradient(to right, red, #feb47b); /* تدرج اللون */
+  background-clip: text; /* تطبيق التدرج على النص */
+  color: transparent; /* هذا سيظل يمنع إظهار النص مباشرة باستخدام التدرج */
+  transition: all 0.3s ease; /* إضافة تأثيرات ناعمة عند التفاعل */
+}
+
+form h1:hover {
+  background-image: linear-gradient(
+    to left,
+    #ff7e5f,
+    #feb47b
+  ); /* تغيير التدرج عند التفاعل */
+}
+
+form h1:hover {
+  transform: scale(1.1); /* تكبير النص عند التمرير فوقه */
+  text-shadow: 4px 4px 12px rgba(0, 0, 0, 0.4); /* تقوية الظل عند التمرير */
+}
+
+form input {
+  width: calc(100% - 5px);
+  margin: 15px 0;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  outline: none;
+  font-size: 16px;
+  font-family: "Arial", sans-serif;
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+form input:hover {
+  transform: scale(1.1); /* تكبير النص عند التمرير فوقه */
+  text-shadow: 4px 4px 12px rgba(0, 0, 0, 0.4); /* تقوية الظل عند التمرير */
+}
+form input:focus {
+  border-color: #8b4513; /* لون تركيز بني */
+  box-shadow: 0 0 6px rgba(139, 69, 19, 0.6);
+}
+
+form button {
+  background-color: #8b4513; /* بني */
+  color: #fff8dc; /* لون نص يتباين مع الزر */
+  border: none;
+  padding: 12px 25px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+form button:hover {
+  background-color: #5a3220; /* بني أغمق */
+  transform: scale(1.05); /* تأثير الزر عند التمرير */
+}
+
+/* Media Queries لتصميم متجاوب */
+@media screen and (max-width: 768px) {
+  form {
+    padding: 20px;
+    width: 90%; /* عرض النموذج يصبح 90% من الشاشة */
+    max-width: 380px; /* تقليص العرض الأقصى قليلاً */
+  }
+
+  form h1 {
+    font-size: 20px; /* تقليل حجم العنوان على الشاشات الصغيرة */
+  }
+
+  form input {
+    font-size: 14px; /* تقليل حجم الخط داخل الحقول */
+    padding: 10px; /* تقليص الحشو داخل الحقول */
+  }
+
+  form button {
+    font-size: 16px; /* تقليل حجم الخط داخل الزر */
+    padding: 10px 20px; /* تقليص الحشو داخل الزر */
+  }
+}
+
+@media screen and (max-width: 480px) {
+  form {
+    padding: 15px;
+    width: 100%; /* عرض النموذج يصبح كامل عرض الشاشة */
+    max-width: 360px; /* تقليص العرض الأقصى */
+  }
+
+  form h1 {
+    font-size: 18px; /* تقليل حجم العنوان أكثر */
+  }
+
+  form input {
+    font-size: 14px; /* تقليل حجم الخط داخل الحقول */
+    padding: 8px; /* تقليص الحشو داخل الحقول */
+  }
+
+  form button {
+    font-size: 14px; /* تقليل حجم الخط داخل الزر */
+    padding: 8px 18px; /* تقليص الحشو داخل الزر */
+  }
+}
+.Goodnotification {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 16px;
+  position: fixed; /* لتثبيت الإشعار في مكانه */
+  top: 20px; /* يحدد المسافة من أعلى الشاشة */
+  left: 50%; /* يحدد الموضع الأفقى في منتصف الشاشة */
+  transform: translateX(-50%); /* لضبط المركز بدقة */
+  z-index: 9999; /* لضمان أن الإشعار يظهر فوق المحتوى الآخر */
+  opacity: 1;
+  animation: fadeInOut 5s ease-in-out forwards; /* إضافة تأثير ظهور ثم اختفاء */
+}
+.Badnotification {
+  background-color: red;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 16px;
+  position: fixed; /* لتثبيت الإشعار في مكانه */
+  top: 20px; /* يحدد المسافة من أعلى الشاشة */
+  left: 50%; /* يحدد الموضع الأفقى في منتصف الشاشة */
+  transform: translateX(-50%); /* لضبط المركز بدقة */
+  z-index: 9999; /* لضمان أن الإشعار يظهر فوق المحتوى الآخر */
+  opacity: 1;
+  animation: fadeInOut 5s ease-in-out forwards; /* إضافة تأثير ظهور ثم اختفاء */
+}
+/* إضافة التأثير عند ظهور واختفاء الإشعار */
+@keyframes fadeInOut {
+  0% {
+    opacity: 0; /* يبدأ الشفافية من 0 */
+    top: 0;
+  }
+  20% {
+    opacity: 1; /* تصبح الشفافية 100% في بداية الظهور */
+    top: 20px;
+  }
+  80% {
+    opacity: 1; /* تبقى الشفافية 100% لبقية الوقت */
+    top: 20px;
+  }
+  100% {
+    opacity: 0; /* تختفي الشفافية في النهاية */
+    top: 0;
+  }
+}
+
+/* إذا أردت إضافة تأثير اختفاء الإشعار */
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}

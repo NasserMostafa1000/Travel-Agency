@@ -1,0 +1,29 @@
+.CompanyName {
+  text-align: center;
+  color: brown;
+  font-family: "Arial", sans-serif;
+  font-size: 4vw; /* استخدام وحدة النسبة المئوية لتغيير الحجم بناءً على حجم العرض */
+  font-weight: bold;
+  padding: 20px;
+  background-color: #f4f4f4;
+  border-radius: 10px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  text-transform: uppercase;
+  line-height: 1.4;
+  margin: 0 10px; /* إضافة تباعد بسيط من الأطراف */
+}
+
+/* إضافة استعلامات الوسائط لتخصيص النمط للأجهزة المختلفة */
+@media (max-width: 768px) {
+  .CompanyName {
+    font-size: 5vw; /* زيادة حجم الخط للأجهزة الصغيرة */
+    padding: 15px; /* تقليل الحشو */
+  }
+}
+
+@media (max-width: 480px) {
+  .CompanyName {
+    font-size: 6vw; /* زيادة حجم الخط على الهواتف */
+    padding: 10px; /* تقليل الحشو أكثر */
+  }
+}

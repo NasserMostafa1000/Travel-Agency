@@ -1,0 +1,12 @@
+E:\WORK\SalamTravel\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDTA.GeneratedMSBuildEditorConfig.editorconfig
+E:\WORK\SalamTravel\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDTA.AssemblyInfoInputs.cache
+E:\WORK\SalamTravel\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDTA.AssemblyInfo.cs
+E:\WORK\SalamTravel\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDTA.csproj.CoreCompileInputs.cache
+E:\WORK\SalamTravel\SalamaTravelDTA\bin\Debug\net8.0\SalamaTravelDTA.deps.json
+E:\WORK\SalamTravel\SalamaTravelDTA\bin\Debug\net8.0\SalamaTravelDTA.dll
+E:\WORK\SalamTravel\SalamaTravelDTA\bin\Debug\net8.0\SalamaTravelDTA.pdb
+E:\WORK\SalamTravel\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDTA.csproj.AssemblyReference.cache
+E:\WORK\SalamTravel\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDTA.dll
+E:\WORK\SalamTravel\SalamaTravelDTA\obj\Debug\net8.0\refint\SalamaTravelDTA.dll
+E:\WORK\SalamTravel\SalamaTravelDTA\obj\Debug\net8.0\SalamaTravelDTA.pdb
+E:\WORK\SalamTravel\SalamaTravelDTA\obj\Debug\net8.0\ref\SalamaTravelDTA.dll

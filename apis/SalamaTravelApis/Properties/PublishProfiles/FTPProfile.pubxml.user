@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>
+    </EncryptedPassword>
+    <_PublishTargetUrl>ftp://win6043.site4now.net/http://ramysalama2000-001-site1.otempurl.com/</_PublishTargetUrl>
+    <History>False|2024-12-08T21:24:36.0241234Z||;False|2024-12-08T23:23:49.7707162+02:00||;False|2024-12-08T23:23:26.8590375+02:00||;False|2024-12-08T23:19:56.1627575+02:00||;False|2024-12-08T23:17:04.1218945+02:00||;False|2024-12-08T23:09:42.7452788+02:00||;False|2024-12-08T23:04:49.2878340+02:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=SQL1001.site4now.net%3bInitial Catalog=db_ab0587_karamalsalama%3bUser Id=db_ab0587_karamalsalama_admin%3bPassword=Ramy0120#</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

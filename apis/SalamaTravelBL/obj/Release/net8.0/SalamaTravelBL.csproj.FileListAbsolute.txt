@@ -1,0 +1,45 @@
+E:\WORK\Salama APIs\SalamaTravelBA\bin\Release\net8.0\SalamaTravelBL.deps.json
+E:\WORK\Salama APIs\SalamaTravelBA\bin\Release\net8.0\SalamaTravelBL.dll
+E:\WORK\Salama APIs\SalamaTravelBA\bin\Release\net8.0\SalamaTravelBL.pdb
+E:\WORK\Salama APIs\SalamaTravelBA\bin\Release\net8.0\SalamaTravelDAL.dll
+E:\WORK\Salama APIs\SalamaTravelBA\bin\Release\net8.0\SalamaTravelDAL.pdb
+E:\WORK\Salama APIs\SalamaTravelBA\obj\Release\net8.0\SalamaTravelBL.csproj.AssemblyReference.cache
+E:\WORK\Salama APIs\SalamaTravelBA\obj\Release\net8.0\SalamaTravelBL.GeneratedMSBuildEditorConfig.editorconfig
+E:\WORK\Salama APIs\SalamaTravelBA\obj\Release\net8.0\SalamaTravelBL.AssemblyInfoInputs.cache
+E:\WORK\Salama APIs\SalamaTravelBA\obj\Release\net8.0\SalamaTravelBL.AssemblyInfo.cs
+E:\WORK\Salama APIs\SalamaTravelBA\obj\Release\net8.0\SalamaTravelBL.csproj.CoreCompileInputs.cache
+E:\WORK\Salama APIs\SalamaTravelBA\obj\Release\net8.0\SalamaTr.5B70D221.Up2Date
+E:\WORK\Salama APIs\SalamaTravelBA\obj\Release\net8.0\SalamaTravelBL.dll
+E:\WORK\Salama APIs\SalamaTravelBA\obj\Release\net8.0\refint\SalamaTravelBL.dll
+E:\WORK\Salama APIs\SalamaTravelBA\obj\Release\net8.0\SalamaTravelBL.pdb
+E:\WORK\Salama APIs\SalamaTravelBA\obj\Release\net8.0\ref\SalamaTravelBL.dll
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelBA\bin\Release\net8.0\SalamaTravelBL.deps.json
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelBA\bin\Release\net8.0\SalamaTravelBL.dll
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelBA\bin\Release\net8.0\SalamaTravelBL.pdb
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelBA\bin\Release\net8.0\SalamaTravelDAL.dll
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelBA\bin\Release\net8.0\SalamaTravelDAL.pdb
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelBA\obj\Release\net8.0\SalamaTravelBL.csproj.AssemblyReference.cache
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelBA\obj\Release\net8.0\SalamaTravelBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelBA\obj\Release\net8.0\SalamaTravelBL.AssemblyInfoInputs.cache
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelBA\obj\Release\net8.0\SalamaTravelBL.AssemblyInfo.cs
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelBA\obj\Release\net8.0\SalamaTravelBL.csproj.CoreCompileInputs.cache
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelBA\obj\Release\net8.0\SalamaTr.5B70D221.Up2Date
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelBA\obj\Release\net8.0\SalamaTravelBL.dll
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelBA\obj\Release\net8.0\refint\SalamaTravelBL.dll
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelBA\obj\Release\net8.0\SalamaTravelBL.pdb
+C:\Users\Elalamia\Desktop\Salama APIs\SalamaTravelBA\obj\Release\net8.0\ref\SalamaTravelBL.dll
+C:\Users\Elalamia\Desktop\apis\SalamaTravelBA\bin\Release\net8.0\SalamaTravelBL.deps.json
+C:\Users\Elalamia\Desktop\apis\SalamaTravelBA\bin\Release\net8.0\SalamaTravelBL.dll
+C:\Users\Elalamia\Desktop\apis\SalamaTravelBA\bin\Release\net8.0\SalamaTravelBL.pdb
+C:\Users\Elalamia\Desktop\apis\SalamaTravelBA\bin\Release\net8.0\SalamaTravelDAL.dll
+C:\Users\Elalamia\Desktop\apis\SalamaTravelBA\bin\Release\net8.0\SalamaTravelDAL.pdb
+C:\Users\Elalamia\Desktop\apis\SalamaTravelBA\obj\Release\net8.0\SalamaTravelBL.csproj.AssemblyReference.cache
+C:\Users\Elalamia\Desktop\apis\SalamaTravelBA\obj\Release\net8.0\SalamaTravelBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elalamia\Desktop\apis\SalamaTravelBA\obj\Release\net8.0\SalamaTravelBL.AssemblyInfoInputs.cache
+C:\Users\Elalamia\Desktop\apis\SalamaTravelBA\obj\Release\net8.0\SalamaTravelBL.AssemblyInfo.cs
+C:\Users\Elalamia\Desktop\apis\SalamaTravelBA\obj\Release\net8.0\SalamaTravelBL.csproj.CoreCompileInputs.cache
+C:\Users\Elalamia\Desktop\apis\SalamaTravelBA\obj\Release\net8.0\SalamaTr.5B70D221.Up2Date
+C:\Users\Elalamia\Desktop\apis\SalamaTravelBA\obj\Release\net8.0\SalamaTravelBL.dll
+C:\Users\Elalamia\Desktop\apis\SalamaTravelBA\obj\Release\net8.0\refint\SalamaTravelBL.dll
+C:\Users\Elalamia\Desktop\apis\SalamaTravelBA\obj\Release\net8.0\SalamaTravelBL.pdb
+C:\Users\Elalamia\Desktop\apis\SalamaTravelBA\obj\Release\net8.0\ref\SalamaTravelBL.dll

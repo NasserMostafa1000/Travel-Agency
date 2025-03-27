@@ -1,0 +1,156 @@
+/* شريط "About Us" */
+.about-us-bar {
+  position: relative;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(135deg, #2b8b3f, #4caf50);
+  color: #ffffff;
+  text-align: center;
+  padding: 15px 30px;
+  font-size: 14px;
+  box-shadow: 0 -3px 10px rgba(0, 0, 0, 0.15);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Ensure items are aligned at the top */
+  align-items: center;
+  width: 100%; /* يضمن أن العرض 100% */
+  max-width: 100%; /* تأكد من أن العنصر لا يتجاوز عرض الشاشة */
+  box-sizing: border-box; /* التأكد من أن المسافات الداخلية والخارجية محسوبة ضمن العرض */
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  font-family: "Arial", sans-serif;
+  z-index: 1000;
+}
+
+/* تنسيق عنوان "Contact Us" */
+.contact-us-heading {
+  margin-bottom: 15px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ffffff;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+/* تنسيق النص داخل الشريط */
+.about-us-bar p {
+  margin: 6px 15px;
+  font-weight: 400;
+  line-height: 1.5;
+  font-size: 16px;
+  color: #f0e68c;
+}
+.about-us-bar p {
+  margin: 6px 15px;
+  font-weight: 400;
+  line-height: 1.5;
+  font-size: 16px;
+  color: #f0e68c;
+}
+
+/* تنسيق معلومات الاتصال داخل الشريط */
+.about-us-bar .contact-info {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  text-align: left;
+  width: 100%;
+  max-width: 1000px; /* لتقييد العرض في الشاشات الكبيرة */
+  margin: 0 auto;
+}
+
+.about-us-bar .contact-info div {
+  margin: 10px;
+  flex: 1;
+  min-width: 250px;
+}
+
+.about-us-bar .contact-info div p {
+  font-size: 16px;
+  color: #ffd700;
+  font-style: italic;
+}
+.about-us-bar .contact-info div a {
+  font-size: 16px;
+  color: #2600ff;
+  font-style: italic;
+  margin-left: 10px;
+}
+.about-us-bar .contact-info div .title {
+  font-weight: bold;
+  color: #ffffff;
+}
+
+/* تحسين تصميم الزر ليظل ثابتًا أعلى الصفحة */
+.button-container {
+  position: fixed;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+  background-color: transparent;
+  border: none;
+  padding: 8px 16px;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button-container:hover {
+  background-color: transparent;
+}
+
+/* تحسين التفاعل مع الشاشات الصغيرة */
+@media (max-width: 768px) {
+  .about-us-bar {
+    font-size: 13px;
+    padding: 15px;
+  }
+
+  .about-us-bar .contact-info {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .about-us-bar .contact-info div {
+    min-width: 100%;
+    margin: 8px 0;
+  }
+
+  .button-container {
+    top: 10px;
+    font-size: 13px;
+    padding: 8px 14px;
+  }
+
+  .about-us-container {
+    margin-top: 85px;
+  }
+}
+
+/* شاشات الهاتف المحمول */
+@media (max-width: 480px) {
+  .about-us-bar {
+    font-size: 12px;
+    padding: 12px;
+  }
+
+  .about-us-bar .contact-info div p {
+    font-size: 14px;
+  }
+  .about-us-bar .contact-info div a {
+    font-size: 14px;
+  }
+
+  .button-container {
+    font-size: 12px;
+    padding: 6px 12px;
+  }
+
+  .about-us-container {
+    margin-top: 70px;
+  }
+}

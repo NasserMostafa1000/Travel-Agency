@@ -1,0 +1,66 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* Container for the Terms Section */
+.privacy-terms-container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading Styles */
+.privacy-terms-title {
+  font-size: 2rem;
+  color: orange;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* List Styles */
+.privacy-terms-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.privacy-terms-item {
+  margin-bottom: 15px;
+  padding-left: 25px;
+  position: relative;
+}
+
+.privacy-terms-item::before {
+  content: "\2022";
+  color: orange;
+  font-weight: bold;
+  font-size: 1.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+/* Paragraph Styles */
+.privacy-terms-text {
+  margin: 0;
+  line-height: 1.6;
+  color: orange;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .privacy-terms-container {
+    padding: 15px;
+  }
+
+  .privacy-terms-title {
+    font-size: 1.5rem;
+  }
+}

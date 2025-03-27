@@ -1,0 +1,18 @@
+.Order-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  background-color: #f4f4f9;
+  margin-top: 20%;
+}
+
+.error-message {
+  color: red;
+  text-align: center;
+  font-weight: bold;
+  padding: 20px;
+  background-color: #ffe6e6;
+  border: 1px solid red;
+  border-radius: 10px;
+}
