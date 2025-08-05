@@ -14,7 +14,6 @@
 ### Frontend:
 - **React.js**
 - **Tailwind CSS**
-- Multilingual interface (Arabic & English)
 
 ### Admin Panel:
 - **.NET Desktop Application**
@@ -95,7 +94,6 @@
 
 ## 🛠 Planned Features
 - 🔐 Online Payment Integration (in progress)
-- 📩 Email & SMS notifications
 - 📊 Admin Dashboard with charts and analytics
 - 📱 Mobile app version
 
