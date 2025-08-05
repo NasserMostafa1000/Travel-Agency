@@ -1,0 +1,27 @@
+E:\WORK\Salam Travel Folder\SalamTravelDAL\bin\Debug\SalamTravelDAL.dll
+E:\WORK\Salam Travel Folder\SalamTravelDAL\bin\Debug\SalamTravelDAL.pdb
+E:\WORK\Salam Travel Folder\SalamTravelDAL\bin\Debug\Newtonsoft.Json.dll
+E:\WORK\Salam Travel Folder\SalamTravelDAL\bin\Debug\Newtonsoft.Json.xml
+E:\WORK\Salam Travel Folder\SalamTravelDAL\obj\Debug\SalamTravelDAL.csproj.AssemblyReference.cache
+E:\WORK\Salam Travel Folder\SalamTravelDAL\obj\Debug\SalamTravelDAL.csproj.CoreCompileInputs.cache
+E:\WORK\Salam Travel Folder\SalamTravelDAL\obj\Debug\SalamTra.B776853F.Up2Date
+E:\WORK\Salam Travel Folder\SalamTravelDAL\obj\Debug\SalamTravelDAL.dll
+E:\WORK\Salam Travel Folder\SalamTravelDAL\obj\Debug\SalamTravelDAL.pdb
+E:\WORK\Salam Travel Folder\Salama Desktop App\SalamTravelDAL\bin\Debug\SalamTravelDAL.dll
+E:\WORK\Salam Travel Folder\Salama Desktop App\SalamTravelDAL\bin\Debug\SalamTravelDAL.pdb
+E:\WORK\Salam Travel Folder\Salama Desktop App\SalamTravelDAL\bin\Debug\Newtonsoft.Json.dll
+E:\WORK\Salam Travel Folder\Salama Desktop App\SalamTravelDAL\bin\Debug\Newtonsoft.Json.xml
+E:\WORK\Salam Travel Folder\Salama Desktop App\SalamTravelDAL\obj\Debug\SalamTravelDAL.csproj.AssemblyReference.cache
+E:\WORK\Salam Travel Folder\Salama Desktop App\SalamTravelDAL\obj\Debug\SalamTravelDAL.csproj.CoreCompileInputs.cache
+E:\WORK\Salam Travel Folder\Salama Desktop App\SalamTravelDAL\obj\Debug\SalamTra.B776853F.Up2Date
+E:\WORK\Salam Travel Folder\Salama Desktop App\SalamTravelDAL\obj\Debug\SalamTravelDAL.dll
+E:\WORK\Salam Travel Folder\Salama Desktop App\SalamTravelDAL\obj\Debug\SalamTravelDAL.pdb
+E:\WORK\My Apps\Salama Travel\Admin Desktop App(dotnet framework)\SalamTravelDAL\bin\Debug\SalamTravelDAL.dll
+E:\WORK\My Apps\Salama Travel\Admin Desktop App(dotnet framework)\SalamTravelDAL\bin\Debug\SalamTravelDAL.pdb
+E:\WORK\My Apps\Salama Travel\Admin Desktop App(dotnet framework)\SalamTravelDAL\bin\Debug\Newtonsoft.Json.dll
+E:\WORK\My Apps\Salama Travel\Admin Desktop App(dotnet framework)\SalamTravelDAL\bin\Debug\Newtonsoft.Json.xml
+E:\WORK\My Apps\Salama Travel\Admin Desktop App(dotnet framework)\SalamTravelDAL\obj\Debug\SalamTravelDAL.csproj.AssemblyReference.cache
+E:\WORK\My Apps\Salama Travel\Admin Desktop App(dotnet framework)\SalamTravelDAL\obj\Debug\SalamTravelDAL.csproj.CoreCompileInputs.cache
+E:\WORK\My Apps\Salama Travel\Admin Desktop App(dotnet framework)\SalamTravelDAL\obj\Debug\SalamTra.B776853F.Up2Date
+E:\WORK\My Apps\Salama Travel\Admin Desktop App(dotnet framework)\SalamTravelDAL\obj\Debug\SalamTravelDAL.dll
+E:\WORK\My Apps\Salama Travel\Admin Desktop App(dotnet framework)\SalamTravelDAL\obj\Debug\SalamTravelDAL.pdb

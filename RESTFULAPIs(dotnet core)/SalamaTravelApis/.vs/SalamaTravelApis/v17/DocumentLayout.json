@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WORK\\My Apps\\Salama Travel\\RESTFULAPIs(dotnet core)\\SalamaTravelApis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C046EBA-F7CD-48B3-A683-9D55FB6D8EAD}|SalamaTravelApis.csproj|e:\\work\\my apps\\salama travel\\restfulapis(dotnet core)\\salamatravelapis\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C046EBA-F7CD-48B3-A683-9D55FB6D8EAD}|SalamaTravelApis.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C046EBA-F7CD-48B3-A683-9D55FB6D8EAD}|SalamaTravelApis.csproj|e:\\work\\my apps\\salama travel\\restfulapis(dotnet core)\\salamatravelapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C046EBA-F7CD-48B3-A683-9D55FB6D8EAD}|SalamaTravelApis.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C046EBA-F7CD-48B3-A683-9D55FB6D8EAD}|SalamaTravelApis.csproj|e:\\work\\my apps\\salama travel\\restfulapis(dotnet core)\\salamatravelapis\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C046EBA-F7CD-48B3-A683-9D55FB6D8EAD}|SalamaTravelApis.csproj|solutionrelative:controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E642C9-5782-4013-9890-20E9211FCA98}|..\\SalamaTravelDataLayer\\SalamaTravelDataLayer.csproj|e:\\work\\my apps\\salama travel\\restfulapis(dotnet core)\\salamatraveldatalayer\\visasdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C046EBA-F7CD-48B3-A683-9D55FB6D8EAD}|SalamaTravelApis.csproj|e:\\work\\my apps\\salama travel\\restfulapis(dotnet core)\\salamatravelapis\\controllers\\visascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C046EBA-F7CD-48B3-A683-9D55FB6D8EAD}|SalamaTravelApis.csproj|solutionrelative:controllers\\visascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C046EBA-F7CD-48B3-A683-9D55FB6D8EAD}|SalamaTravelApis.csproj|e:\\work\\my apps\\salama travel\\restfulapis(dotnet core)\\salamatravelapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C046EBA-F7CD-48B3-A683-9D55FB6D8EAD}|SalamaTravelApis.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C046EBA-F7CD-48B3-A683-9D55FB6D8EAD}|SalamaTravelApis.csproj|e:\\work\\my apps\\salama travel\\restfulapis(dotnet core)\\salamatravelapis\\controllers\\foundationinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C046EBA-F7CD-48B3-A683-9D55FB6D8EAD}|SalamaTravelApis.csproj|solutionrelative:controllers\\foundationinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD59753-8F98-4C50-88F3-D1048193781C}|..\\SalamaTravelBL\\SalamaTravelBL.csproj|e:\\work\\my apps\\salama travel\\restfulapis(dotnet core)\\salamatravelbl\\foundationinfobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E642C9-5782-4013-9890-20E9211FCA98}|..\\SalamaTravelDataLayer\\SalamaTravelDataLayer.csproj|e:\\work\\my apps\\salama travel\\restfulapis(dotnet core)\\salamatraveldatalayer\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E642C9-5782-4013-9890-20E9211FCA98}|..\\SalamaTravelDataLayer\\SalamaTravelDataLayer.csproj|e:\\work\\my apps\\salama travel\\restfulapis(dotnet core)\\salamatraveldatalayer\\foundationinfodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C046EBA-F7CD-48B3-A683-9D55FB6D8EAD}|SalamaTravelApis.csproj|e:\\work\\my apps\\salama travel\\restfulapis(dotnet core)\\salamatravelapis\\controllers\\visaspriceshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C046EBA-F7CD-48B3-A683-9D55FB6D8EAD}|SalamaTravelApis.csproj|solutionrelative:controllers\\visaspriceshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\WORK\\My Apps\\Salama Travel\\RESTFULAPIs(dotnet core)\\SalamaTravelApis\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\WORK\\My Apps\\Salama Travel\\RESTFULAPIs(dotnet core)\\SalamaTravelApis\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwBIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-02T17:56:14.881Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "E:\\WORK\\My Apps\\Salama Travel\\RESTFULAPIs(dotnet core)\\SalamaTravelApis\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientsController.cs",
+              "ToolTip": "E:\\WORK\\My Apps\\Salama Travel\\RESTFULAPIs(dotnet core)\\SalamaTravelApis\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAADYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T21:53:04.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1932167639:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VisasDAL.cs",
+              "DocumentMoniker": "E:\\WORK\\My Apps\\Salama Travel\\RESTFULAPIs(dotnet core)\\SalamaTravelDataLayer\\VisasDAL.cs",
+              "RelativeDocumentMoniker": "..\\SalamaTravelDataLayer\\VisasDAL.cs",
+              "ToolTip": "E:\\WORK\\My Apps\\Salama Travel\\RESTFULAPIs(dotnet core)\\SalamaTravelDataLayer\\VisasDAL.cs",
+              "RelativeToolTip": "..\\SalamaTravelDataLayer\\VisasDAL.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAcwIgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T21:41:55.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "E:\\WORK\\My Apps\\Salama Travel\\RESTFULAPIs(dotnet core)\\SalamaTravelDataLayer\\Settings.cs",
+              "RelativeDocumentMoniker": "..\\SalamaTravelDataLayer\\Settings.cs",
+              "ToolTip": "E:\\WORK\\My Apps\\Salama Travel\\RESTFULAPIs(dotnet core)\\SalamaTravelDataLayer\\Settings.cs",
+              "RelativeToolTip": "..\\SalamaTravelDataLayer\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T15:01:12.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\WORK\\My Apps\\Salama Travel\\RESTFULAPIs(dotnet core)\\SalamaTravelApis\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\WORK\\My Apps\\Salama Travel\\RESTFULAPIs(dotnet core)\\SalamaTravelApis\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T14:46:15.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VisasController.cs",
+              "DocumentMoniker": "E:\\WORK\\My Apps\\Salama Travel\\RESTFULAPIs(dotnet core)\\SalamaTravelApis\\Controllers\\VisasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VisasController.cs",
+              "ToolTip": "E:\\WORK\\My Apps\\Salama Travel\\RESTFULAPIs(dotnet core)\\SalamaTravelApis\\Controllers\\VisasController.cs",
+              "RelativeToolTip": "Controllers\\VisasController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAowEYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T14:36:23.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VisasPricesHub.cs",
+              "DocumentMoniker": "E:\\WORK\\My Apps\\Salama Travel\\RESTFULAPIs(dotnet core)\\SalamaTravelApis\\Controllers\\VisasPricesHub.cs",
+              "RelativeDocumentMoniker": "Controllers\\VisasPricesHub.cs",
+              "ToolTip": "E:\\WORK\\My Apps\\Salama Travel\\RESTFULAPIs(dotnet core)\\SalamaTravelApis\\Controllers\\VisasPricesHub.cs",
+              "RelativeToolTip": "Controllers\\VisasPricesHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T14:33:01.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FoundationInfoController.cs",
+              "DocumentMoniker": "E:\\WORK\\My Apps\\Salama Travel\\RESTFULAPIs(dotnet core)\\SalamaTravelApis\\Controllers\\FoundationInfoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FoundationInfoController.cs",
+              "ToolTip": "E:\\WORK\\My Apps\\Salama Travel\\RESTFULAPIs(dotnet core)\\SalamaTravelApis\\Controllers\\FoundationInfoController.cs",
+              "RelativeToolTip": "Controllers\\FoundationInfoController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T13:52:38.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FoundationInfoBL.cs",
+              "DocumentMoniker": "E:\\WORK\\My Apps\\Salama Travel\\RESTFULAPIs(dotnet core)\\SalamaTravelBL\\FoundationInfoBL.cs",
+              "RelativeDocumentMoniker": "..\\SalamaTravelBL\\FoundationInfoBL.cs",
+              "ToolTip": "E:\\WORK\\My Apps\\Salama Travel\\RESTFULAPIs(dotnet core)\\SalamaTravelBL\\FoundationInfoBL.cs",
+              "RelativeToolTip": "..\\SalamaTravelBL\\FoundationInfoBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T13:51:35.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\WORK\\My Apps\\Salama Travel\\RESTFULAPIs(dotnet core)\\SalamaTravelApis\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\WORK\\My Apps\\Salama Travel\\RESTFULAPIs(dotnet core)\\SalamaTravelApis\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-01T13:05:34.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FoundationInfoDAL.cs",
+              "DocumentMoniker": "E:\\WORK\\My Apps\\Salama Travel\\RESTFULAPIs(dotnet core)\\SalamaTravelDataLayer\\FoundationInfoDAL.cs",
+              "RelativeDocumentMoniker": "..\\SalamaTravelDataLayer\\FoundationInfoDAL.cs",
+              "ToolTip": "E:\\WORK\\My Apps\\Salama Travel\\RESTFULAPIs(dotnet core)\\SalamaTravelDataLayer\\FoundationInfoDAL.cs",
+              "RelativeToolTip": "..\\SalamaTravelDataLayer\\FoundationInfoDAL.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIA8wCQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T13:04:16.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
